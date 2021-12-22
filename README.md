@@ -19,19 +19,19 @@ Food Country это приложение для заказов еды онлай
 
 `Стартовая страница приложения`
 Для начала нажмите `Get started`
-![alt text](project/examples/img1.jpg)
+![alt text](examples/img1.jpg)
 
 `Основное меню приложения с выбором товаров`
 Для добавления товара нажмите на `+add` 
-![alt text](project/examples/img2.jpg)
+![alt text](examples/img2.jpg)
 
 `Добавление товара в корзину`
 Выберите количество товаров и нажмите `Add to card`
-![alt text](project/examples/img3.jpg)
+![alt text](examples/img3.jpg)
 
 `Меню коризины`
 Для оформления заказа нажмите `CheckOut`
-![alt text](project/examples/img4.jpg)
+![alt text](examples/img4.jpg)
 
 ## Contribution
 
